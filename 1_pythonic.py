@@ -3,7 +3,7 @@
 # Oct 20th, 2016
 
 """ Pythonic:
-    充分提现python代码风格，其可读性高。以快速排序举例"""
+    充分体现python代码风格，其可读性高。以快速排序举例"""
 def quick_sort(array):
     less = []
     greater = []
